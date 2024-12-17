@@ -1,0 +1,5 @@
+data integrtaion
+visualisation
+complexity
+perfomance isssues
+cost and expences
